@@ -1,0 +1,59 @@
+.contacts
+  background: #F7F7F7
+  padding-bottom: 60px
+  .head
+    margin: 50px 0
+    display: block
+    color: #000000
+    font-size: 25px
+    text-align: center
+    font-family: "Open Sans"
+    font-weight: 300
+  .item
+    display: flex
+    justify-content: space-between
+    border: 4px solid #EFEFEF
+    background: #fff
+    padding: 17px
+    .sidebar
+      width: 250px
+      .logo_wrap
+        width: 100%
+        height: 200px
+        padding: 15px
+        display: flex
+        justify-content: center
+        align-items: center
+        background: #EFEFEF
+        position: relative
+        &::before
+          z-index: 10
+          content: ''
+          position: absolute
+          left: calc(50% - 10px)
+          top: 100%
+          border: 15px solid transparent
+          border-top: 25px solid #EFEFEF
+        &::after
+          z-index: 10
+          content: ''
+          position: absolute
+          left: 100%
+          top: 45%
+          border: 15px solid transparent
+          border-left: 25px solid #EFEFEF
+        img
+          width: 100%
+      .info_wrap
+        padding: 35px 25px
+        background: #E31E24
+        margin-top: 0
+        font-size: 16px
+        font-family: "Open Sans"
+        font-weight: 300
+        color: #fff
+        .little_head
+          font-weight: 800
+    .map
+      width: 650px
+

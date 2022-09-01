@@ -1,0 +1,61 @@
+.up_menu_900_fixed
+  position: fixed
+  z-index: 9
+  width: 100%
+  .up_menu_900
+    width: 100%
+    display: flex
+    align-items: center
+    justify-content: space-between
+    padding: 5px 20px
+    background: #f7f7f7
+    position: relative
+    border-bottom: 1px solid #ddd
+    .hamburger
+      display: flex
+      align-items: center
+      font-size: 14px
+      color: #000
+      text-decoration: none
+      font-family: "Open Sans"
+      font-weight: 400
+      &::before
+        content: ''
+        background: url("../images/hamburger.png") no-repeat
+        width: 25px
+        height: 25px
+        background-size: cover
+    .contacts_wrap
+      display: flex
+      justify-content: space-between
+      a
+        font-size: 16px
+        color: #000
+        text-decoration: none
+        font-family: "Open Sans"
+        font-weight: 400
+        margin: 0 0 0 20px
+  .menu_900
+    display: none
+    position: absolute
+    background: #f7f7f7
+    width: 100%
+    z-index: 10
+    box-shadow: 0px 10px 40px -10px gray
+    .nav
+      display: flex
+      justify-content: space-around
+      flex-wrap: wrap
+      padding: 0
+      li
+        list-style: none
+        margin: 5px
+        a
+          font-family: "Open Sans"
+          color: #333
+          font-size: 14px
+          padding: 5px
+          text-decoration: none
+          &:hover
+            background: #ddd
+            border-radius: 2px
