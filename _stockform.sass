@@ -1,6 +1,5 @@
 .stocks
   background: #F7F7F7
-  margin: 50px 0
   .head_wrap
     position: relative
     display: flex
@@ -11,10 +10,10 @@
   flex-direction: column
   align-items: flex-start
   position: relative
+  z-index: 3
   .human
     position: relative
   .form
-    width: 392px
     top: 32%
     right: 0
     .form_head_desc
@@ -72,9 +71,12 @@
           padding: 0 6px
           width: 100%
       .sf2-body
+        color: #fff
+        z-index: 3
         .inputs
           display: flex
           align-items: center
+          margin: 20px 0 15px 0
         .sf2-form-item
           display: flex
           justify-content: center
@@ -85,30 +87,32 @@
             justify-content: left
             width: 100%
             .sf2-element
+              width: 270px
               background: none
               border: none
               box-shadow: none
               padding: 0
-              border-bottom: 4px solid #E8393E
-              color: #fff
-              font-family: "Open Sans"
+              background: #fff
+              color: #333
+              border-radius: 40px
+              height: 46px
+              padding-left: 25px
+              margin-right: 20px
+              margin-bottom: 0
             .sf2-submit-container
               width: 100%
               .sf2-element
-                margin-top: 10px
+                width: 130px !important
                 cursor: pointer
                 text-align: center
                 width: 100%
-                background-color: #fff
+                background-color: #E31E24
                 padding: 0
-                color: #E31E24
+                color: #fff
                 line-height: 40px
-                font-size: 25px
-                border-radius: unset
-                text-transform: uppercase
+                font-size: 14px
                 text-align: center
-                font-family: "Open Sans"
-                font-weight: 800
+                border-radius: 40px
                 &:hover
                   background-color: #212434
                   color: #fff
@@ -118,9 +122,20 @@
   border-top: 1px solid #cbcbcb
   position: relative
   width: 100%
-  background: linear-gradient(133.57deg, #123BAA 8.01%, #0055FF 97.96%)
+  background: linear-gradient(133.57deg, #123BAA 8.01%, #0055FF 97.96%), url('/images/colors.png') no-repeat
   background-size: cover
   overflow: hidden
+  .colors
+    position: absolute
+    right: 0
+    top: 0
+    height: 100%
+    @media (max-width: 1200px)
+      display: none
+    
+  .offer1_description
+    color: #fff
+
 
 .offer1_title
   z-index: 1
