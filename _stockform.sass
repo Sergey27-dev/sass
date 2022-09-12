@@ -1,5 +1,7 @@
 .stocks
   background: #F7F7F7
+  p
+    margin: 0
   .head_wrap
     position: relative
     display: flex
@@ -77,6 +79,18 @@
           display: flex
           align-items: center
           margin: 20px 0 15px 0
+          .placeholder
+            position: absolute
+            z-index: 100
+            left: 25px
+            top: 12px
+            cursor: text
+            width: 100%
+            color: #999999
+            font-size: 14px
+            span
+              color: red
+
         .sf2-form-item
           display: flex
           justify-content: center

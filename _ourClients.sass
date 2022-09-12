@@ -1,6 +1,12 @@
 #our-clients
   h2
     margin-bottom: 0 !important
+  .clients-swiper-container
+    position: relative
+  .swiper-button-prev
+    left: -50px
+  .swiper-button-next
+    right: -50px
 .our_clients
   margin-bottom: 50px
   .title
@@ -39,3 +45,16 @@
       margin-right: 5px
       font-weight: 600
       font-size: 14px
+@media ( max-width:  992px)
+  #our-clients
+    .clients-swiper-container
+      position: relative
+      width: 75%
+      margin: 0 auto
+      .swiper-button-prev
+        z-index: 999
+        left: -40px
+      .swiper-button-next
+        z-index: 999
+        right: -40px
+  

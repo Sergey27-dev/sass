@@ -16,6 +16,16 @@
 
 
 @media (max-width: 992px)
+  .show-mobile-form
+    font-size: 12px
+    display: block
+    .sf2-checkbox-label
+      margin-right: 0 !important
+  .form-container-call
+    display: flex
+    align-items: center
+  .hide-mobile-form
+    display: none
 
 
 
@@ -110,12 +120,30 @@
 
 
 @media (max-width: 768px)
+  .our_clients .button 
+    justify-content: center
+  #kind-constructions
+    margin-top: 80px !important
+    h2
+      font-size: 20px
+    .kind-container
+      .show-more-container
+        display: block
+    .card.hide-mobile-constr
+      display: none
+  
+
   .page .stocks
       .inputs
         flex-direction: column
         >div
           margin-bottom: 15px
-    
+  .add_services
+    .wrap 
+      .service
+        background: url("../images/hole.png") no-repeat, url("../images/gears.png") no-repeat 13%, url("../images/hole.png") no-repeat 100% 100%, #e31e24
+        a
+          left: 40%
   .office_wrap
     display: none !important
   .reviews
@@ -167,9 +195,23 @@
 
 
 @media (max-width: 576px)
+  .content_article
+    .specialize-item
+      padding: 10px
+      height: 215px
+      .heading
+        flex-grow: 1
+        margin: 10px 0
+  .show-more-container
+    padding: 0 15px
+    .show-more
+      width: 100%
   .offer1
     .sf2-element
       width: 100% !important
+      margin-right: 0 !important
+    .inputs 
+      align-items: flex-start !important
   .page
     .up_menu_900_fixed .up_menu_900 .contacts_wrap a
       font-size: 14px

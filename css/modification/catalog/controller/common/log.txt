@@ -1,0 +1,3640 @@
+2022-09-02 14:40:15 Array
+(
+    [0] => Array
+        (
+            [category_id] => 230
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 1
+            [status] => 1
+            [date_added] => 2022-03-28 14:56:39
+            [date_modified] => 2022-03-28 14:56:39
+            [language_id] => 1
+            [name] => Мягкая мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мягкая мебель
+            [meta_description] => Мягкая мебель -
+            [meta_keyword] => мягкая мебель,
+            [seo_keyword] => myagkaya-mebel
+            [seo_h1] => Мягкая мебель
+            [seo_h2] => Мягкая мебель
+            [seo_h3] => Мягкая мебель
+            [store_id] => 0
+        )
+
+    [1] => Array
+        (
+            [category_id] => 235
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 2
+            [status] => 1
+            [date_added] => 2022-03-28 15:02:50
+            [date_modified] => 2022-03-28 15:02:50
+            [language_id] => 1
+            [name] => Шкафы-купе
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Шкафы-купе
+            [meta_description] => Шкафы-купе -
+            [meta_keyword] => шкафы-купе,
+            [seo_keyword] => shkafy-kupe
+            [seo_h1] => Шкафы-купе
+            [seo_h2] => Шкафы-купе
+            [seo_h3] => Шкафы-купе
+            [store_id] => 0
+        )
+
+    [2] => Array
+        (
+            [category_id] => 236
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 3
+            [status] => 1
+            [date_added] => 2022-03-28 15:05:15
+            [date_modified] => 2022-03-28 15:05:15
+            [language_id] => 1
+            [name] => Распашные шкафы
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Распашные шкафы
+            [meta_description] => Распашные шкафы -
+            [meta_keyword] => распашные шкафы,
+            [seo_keyword] => raspashnye-shkafy
+            [seo_h1] => Распашные шкафы
+            [seo_h2] => Распашные шкафы
+            [seo_h3] => Распашные шкафы
+            [store_id] => 0
+        )
+
+    [3] => Array
+        (
+            [category_id] => 245
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 4
+            [status] => 1
+            [date_added] => 2022-03-28 15:33:15
+            [date_modified] => 2022-03-28 15:33:15
+            [language_id] => 1
+            [name] => Мебель для кухни
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мебель для кухни
+            [meta_description] => Мебель для кухни -
+            [meta_keyword] => мебель для кухни,
+            [seo_keyword] => mebel-dlya-kuhni
+            [seo_h1] => Мебель для кухни
+            [seo_h2] => Мебель для кухни
+            [seo_h3] => Мебель для кухни
+            [store_id] => 0
+        )
+
+    [4] => Array
+        (
+            [category_id] => 257
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 5
+            [status] => 1
+            [date_added] => 2022-03-28 16:38:12
+            [date_modified] => 2022-03-28 16:38:12
+            [language_id] => 1
+            [name] => Столы
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Столы
+            [meta_description] => Столы -
+            [meta_keyword] => столы,
+            [seo_keyword] => stoly
+            [seo_h1] => Столы
+            [seo_h2] => Столы
+            [seo_h3] => Столы
+            [store_id] => 0
+        )
+
+    [5] => Array
+        (
+            [category_id] => 265
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 6
+            [status] => 1
+            [date_added] => 2022-03-28 16:48:57
+            [date_modified] => 2022-03-28 16:48:57
+            [language_id] => 1
+            [name] => Гостиные
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Гостиные
+            [meta_description] => Гостиные -
+            [meta_keyword] => гостиные,
+            [seo_keyword] => gostinye
+            [seo_h1] => Гостиные
+            [seo_h2] => Гостиные
+            [seo_h3] => Гостиные
+            [store_id] => 0
+        )
+
+    [6] => Array
+        (
+            [category_id] => 271
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 7
+            [status] => 1
+            [date_added] => 2022-03-28 16:53:44
+            [date_modified] => 2022-03-28 16:53:44
+            [language_id] => 1
+            [name] => Комоды
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Комоды
+            [meta_description] => Комоды -
+            [meta_keyword] => комоды,
+            [seo_keyword] => komody
+            [seo_h1] => Комоды
+            [seo_h2] => Комоды
+            [seo_h3] => Комоды
+            [store_id] => 0
+        )
+
+    [7] => Array
+        (
+            [category_id] => 272
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 8
+            [status] => 1
+            [date_added] => 2022-03-28 16:57:37
+            [date_modified] => 2022-03-28 16:57:37
+            [language_id] => 1
+            [name] => Мебель для прихожей
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мебель для прихожей
+            [meta_description] => Мебель для прихожей -
+            [meta_keyword] => мебель для прихожей,
+            [seo_keyword] => mebel-dlya-prihozhej
+            [seo_h1] => Мебель для прихожей
+            [seo_h2] => Мебель для прихожей
+            [seo_h3] => Мебель для прихожей
+            [store_id] => 0
+        )
+
+    [8] => Array
+        (
+            [category_id] => 279
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 9
+            [status] => 1
+            [date_added] => 2022-03-28 17:04:40
+            [date_modified] => 2022-03-28 17:04:40
+            [language_id] => 1
+            [name] => Спальни
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Спальни
+            [meta_description] => Спальни -
+            [meta_keyword] => спальни,
+            [seo_keyword] => spal-ni
+            [seo_h1] => Спальни
+            [seo_h2] => Спальни
+            [seo_h3] => Спальни
+            [store_id] => 0
+        )
+
+    [9] => Array
+        (
+            [category_id] => 288
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 10
+            [status] => 1
+            [date_added] => 2022-03-28 17:51:46
+            [date_modified] => 2022-03-28 17:51:46
+            [language_id] => 1
+            [name] => Кровати и тахты
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Кровати и тахты
+            [meta_description] => Кровати и тахты -
+            [meta_keyword] => кровати и тахты,
+            [seo_keyword] => krovati-i-tahty
+            [seo_h1] => Кровати и тахты
+            [seo_h2] => Кровати и тахты
+            [seo_h3] => Кровати и тахты
+            [store_id] => 0
+        )
+
+    [10] => Array
+        (
+            [category_id] => 295
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 11
+            [status] => 1
+            [date_added] => 2022-03-28 17:58:31
+            [date_modified] => 2022-03-28 17:58:31
+            [language_id] => 1
+            [name] => Матрасы, наматрасники
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Матрасы, наматрасники
+            [meta_description] => Матрасы, наматрасники -
+            [meta_keyword] => матрасы, наматрасники,
+            [seo_keyword] => matrasy-namatrasniki
+            [seo_h1] => Матрасы, наматрасники
+            [seo_h2] => Матрасы, наматрасники
+            [seo_h3] => Матрасы, наматрасники
+            [store_id] => 0
+        )
+
+    [11] => Array
+        (
+            [category_id] => 296
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 12
+            [status] => 1
+            [date_added] => 2022-03-28 17:59:07
+            [date_modified] => 2022-03-28 18:15:09
+            [language_id] => 1
+            [name] => Детская мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Детская мебель
+            [meta_description] => Детская мебель -
+            [meta_keyword] => детская мебель,
+            [seo_keyword] => detskaya-mebel
+            [seo_h1] => Детская мебель
+            [seo_h2] => Детская мебель
+            [seo_h3] => Детская мебель
+            [store_id] => 0
+        )
+
+    [12] => Array
+        (
+            [category_id] => 305
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 13
+            [status] => 1
+            [date_added] => 2022-03-28 18:17:10
+            [date_modified] => 2022-03-28 18:17:10
+            [language_id] => 1
+            [name] => Стулья и табуреты
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Стулья и табуреты
+            [meta_description] => Стулья и табуреты -
+            [meta_keyword] => стулья и табуреты,
+            [seo_keyword] => stul-ya-i-taburety
+            [seo_h1] => Стулья и табуреты
+            [seo_h2] => Стулья и табуреты
+            [seo_h3] => Стулья и табуреты
+            [store_id] => 0
+        )
+
+    [13] => Array
+        (
+            [category_id] => 308
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 14
+            [status] => 1
+            [date_added] => 2022-03-28 18:31:58
+            [date_modified] => 2022-03-28 18:31:58
+            [language_id] => 1
+            [name] => Офисная мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Офисная мебель
+            [meta_description] => Офисная мебель -
+            [meta_keyword] => офисная мебель,
+            [seo_keyword] => ofisnaya-mebel
+            [seo_h1] => Офисная мебель
+            [seo_h2] => Офисная мебель
+            [seo_h3] => Офисная мебель
+            [store_id] => 0
+        )
+
+    [14] => Array
+        (
+            [category_id] => 136
+            [image] => catalog/Kategorii/011.png
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 1000
+            [status] => 1
+            [date_added] => 2021-03-31 09:57:20
+            [date_modified] => 2021-12-04 12:19:35
+            [language_id] => 1
+            [name] => Готовые коллекции мебели
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Готовый интерьер комнат
+            [meta_description] => Готовый интерьер комнат -
+            [meta_keyword] => готовый интерьер комнат,
+            [seo_keyword] => gotovyj-inter-er-komnat
+            [seo_h1] => Готовый интерьер комнат
+            [seo_h2] => Готовый интерьер комнат
+            [seo_h3] => Готовый интерьер комнат
+            [store_id] => 0
+        )
+
+)
+
+2022-09-02 14:41:55 Array
+(
+    [0] => Array
+        (
+            [category_id] => 230
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 1
+            [status] => 1
+            [date_added] => 2022-03-28 14:56:39
+            [date_modified] => 2022-03-28 14:56:39
+            [language_id] => 1
+            [name] => Мягкая мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мягкая мебель
+            [meta_description] => Мягкая мебель -
+            [meta_keyword] => мягкая мебель,
+            [seo_keyword] => myagkaya-mebel
+            [seo_h1] => Мягкая мебель
+            [seo_h2] => Мягкая мебель
+            [seo_h3] => Мягкая мебель
+            [store_id] => 0
+        )
+
+    [1] => Array
+        (
+            [category_id] => 235
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 2
+            [status] => 1
+            [date_added] => 2022-03-28 15:02:50
+            [date_modified] => 2022-03-28 15:02:50
+            [language_id] => 1
+            [name] => Шкафы-купе
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Шкафы-купе
+            [meta_description] => Шкафы-купе -
+            [meta_keyword] => шкафы-купе,
+            [seo_keyword] => shkafy-kupe
+            [seo_h1] => Шкафы-купе
+            [seo_h2] => Шкафы-купе
+            [seo_h3] => Шкафы-купе
+            [store_id] => 0
+        )
+
+    [2] => Array
+        (
+            [category_id] => 236
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 3
+            [status] => 1
+            [date_added] => 2022-03-28 15:05:15
+            [date_modified] => 2022-03-28 15:05:15
+            [language_id] => 1
+            [name] => Распашные шкафы
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Распашные шкафы
+            [meta_description] => Распашные шкафы -
+            [meta_keyword] => распашные шкафы,
+            [seo_keyword] => raspashnye-shkafy
+            [seo_h1] => Распашные шкафы
+            [seo_h2] => Распашные шкафы
+            [seo_h3] => Распашные шкафы
+            [store_id] => 0
+        )
+
+    [3] => Array
+        (
+            [category_id] => 245
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 4
+            [status] => 1
+            [date_added] => 2022-03-28 15:33:15
+            [date_modified] => 2022-03-28 15:33:15
+            [language_id] => 1
+            [name] => Мебель для кухни
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мебель для кухни
+            [meta_description] => Мебель для кухни -
+            [meta_keyword] => мебель для кухни,
+            [seo_keyword] => mebel-dlya-kuhni
+            [seo_h1] => Мебель для кухни
+            [seo_h2] => Мебель для кухни
+            [seo_h3] => Мебель для кухни
+            [store_id] => 0
+        )
+
+    [4] => Array
+        (
+            [category_id] => 257
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 5
+            [status] => 1
+            [date_added] => 2022-03-28 16:38:12
+            [date_modified] => 2022-03-28 16:38:12
+            [language_id] => 1
+            [name] => Столы
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Столы
+            [meta_description] => Столы -
+            [meta_keyword] => столы,
+            [seo_keyword] => stoly
+            [seo_h1] => Столы
+            [seo_h2] => Столы
+            [seo_h3] => Столы
+            [store_id] => 0
+        )
+
+    [5] => Array
+        (
+            [category_id] => 265
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 6
+            [status] => 1
+            [date_added] => 2022-03-28 16:48:57
+            [date_modified] => 2022-03-28 16:48:57
+            [language_id] => 1
+            [name] => Гостиные
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Гостиные
+            [meta_description] => Гостиные -
+            [meta_keyword] => гостиные,
+            [seo_keyword] => gostinye
+            [seo_h1] => Гостиные
+            [seo_h2] => Гостиные
+            [seo_h3] => Гостиные
+            [store_id] => 0
+        )
+
+    [6] => Array
+        (
+            [category_id] => 271
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 7
+            [status] => 1
+            [date_added] => 2022-03-28 16:53:44
+            [date_modified] => 2022-03-28 16:53:44
+            [language_id] => 1
+            [name] => Комоды
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Комоды
+            [meta_description] => Комоды -
+            [meta_keyword] => комоды,
+            [seo_keyword] => komody
+            [seo_h1] => Комоды
+            [seo_h2] => Комоды
+            [seo_h3] => Комоды
+            [store_id] => 0
+        )
+
+    [7] => Array
+        (
+            [category_id] => 272
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 8
+            [status] => 1
+            [date_added] => 2022-03-28 16:57:37
+            [date_modified] => 2022-03-28 16:57:37
+            [language_id] => 1
+            [name] => Мебель для прихожей
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мебель для прихожей
+            [meta_description] => Мебель для прихожей -
+            [meta_keyword] => мебель для прихожей,
+            [seo_keyword] => mebel-dlya-prihozhej
+            [seo_h1] => Мебель для прихожей
+            [seo_h2] => Мебель для прихожей
+            [seo_h3] => Мебель для прихожей
+            [store_id] => 0
+        )
+
+    [8] => Array
+        (
+            [category_id] => 279
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 9
+            [status] => 1
+            [date_added] => 2022-03-28 17:04:40
+            [date_modified] => 2022-03-28 17:04:40
+            [language_id] => 1
+            [name] => Спальни
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Спальни
+            [meta_description] => Спальни -
+            [meta_keyword] => спальни,
+            [seo_keyword] => spal-ni
+            [seo_h1] => Спальни
+            [seo_h2] => Спальни
+            [seo_h3] => Спальни
+            [store_id] => 0
+        )
+
+    [9] => Array
+        (
+            [category_id] => 288
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 10
+            [status] => 1
+            [date_added] => 2022-03-28 17:51:46
+            [date_modified] => 2022-03-28 17:51:46
+            [language_id] => 1
+            [name] => Кровати и тахты
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Кровати и тахты
+            [meta_description] => Кровати и тахты -
+            [meta_keyword] => кровати и тахты,
+            [seo_keyword] => krovati-i-tahty
+            [seo_h1] => Кровати и тахты
+            [seo_h2] => Кровати и тахты
+            [seo_h3] => Кровати и тахты
+            [store_id] => 0
+        )
+
+    [10] => Array
+        (
+            [category_id] => 295
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 11
+            [status] => 1
+            [date_added] => 2022-03-28 17:58:31
+            [date_modified] => 2022-03-28 17:58:31
+            [language_id] => 1
+            [name] => Матрасы, наматрасники
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Матрасы, наматрасники
+            [meta_description] => Матрасы, наматрасники -
+            [meta_keyword] => матрасы, наматрасники,
+            [seo_keyword] => matrasy-namatrasniki
+            [seo_h1] => Матрасы, наматрасники
+            [seo_h2] => Матрасы, наматрасники
+            [seo_h3] => Матрасы, наматрасники
+            [store_id] => 0
+        )
+
+    [11] => Array
+        (
+            [category_id] => 296
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 12
+            [status] => 1
+            [date_added] => 2022-03-28 17:59:07
+            [date_modified] => 2022-03-28 18:15:09
+            [language_id] => 1
+            [name] => Детская мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Детская мебель
+            [meta_description] => Детская мебель -
+            [meta_keyword] => детская мебель,
+            [seo_keyword] => detskaya-mebel
+            [seo_h1] => Детская мебель
+            [seo_h2] => Детская мебель
+            [seo_h3] => Детская мебель
+            [store_id] => 0
+        )
+
+    [12] => Array
+        (
+            [category_id] => 305
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 13
+            [status] => 1
+            [date_added] => 2022-03-28 18:17:10
+            [date_modified] => 2022-03-28 18:17:10
+            [language_id] => 1
+            [name] => Стулья и табуреты
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Стулья и табуреты
+            [meta_description] => Стулья и табуреты -
+            [meta_keyword] => стулья и табуреты,
+            [seo_keyword] => stul-ya-i-taburety
+            [seo_h1] => Стулья и табуреты
+            [seo_h2] => Стулья и табуреты
+            [seo_h3] => Стулья и табуреты
+            [store_id] => 0
+        )
+
+    [13] => Array
+        (
+            [category_id] => 308
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 14
+            [status] => 1
+            [date_added] => 2022-03-28 18:31:58
+            [date_modified] => 2022-03-28 18:31:58
+            [language_id] => 1
+            [name] => Офисная мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Офисная мебель
+            [meta_description] => Офисная мебель -
+            [meta_keyword] => офисная мебель,
+            [seo_keyword] => ofisnaya-mebel
+            [seo_h1] => Офисная мебель
+            [seo_h2] => Офисная мебель
+            [seo_h3] => Офисная мебель
+            [store_id] => 0
+        )
+
+    [14] => Array
+        (
+            [category_id] => 136
+            [image] => catalog/Kategorii/011.png
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 1000
+            [status] => 1
+            [date_added] => 2021-03-31 09:57:20
+            [date_modified] => 2021-12-04 12:19:35
+            [language_id] => 1
+            [name] => Готовые коллекции мебели
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Готовый интерьер комнат
+            [meta_description] => Готовый интерьер комнат -
+            [meta_keyword] => готовый интерьер комнат,
+            [seo_keyword] => gotovyj-inter-er-komnat
+            [seo_h1] => Готовый интерьер комнат
+            [seo_h2] => Готовый интерьер комнат
+            [seo_h3] => Готовый интерьер комнат
+            [store_id] => 0
+        )
+
+)
+
+2022-09-02 14:42:29 Array
+(
+    [0] => Array
+        (
+            [category_id] => 230
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 1
+            [status] => 1
+            [date_added] => 2022-03-28 14:56:39
+            [date_modified] => 2022-03-28 14:56:39
+            [language_id] => 1
+            [name] => Мягкая мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мягкая мебель
+            [meta_description] => Мягкая мебель -
+            [meta_keyword] => мягкая мебель,
+            [seo_keyword] => myagkaya-mebel
+            [seo_h1] => Мягкая мебель
+            [seo_h2] => Мягкая мебель
+            [seo_h3] => Мягкая мебель
+            [store_id] => 0
+        )
+
+    [1] => Array
+        (
+            [category_id] => 235
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 2
+            [status] => 1
+            [date_added] => 2022-03-28 15:02:50
+            [date_modified] => 2022-03-28 15:02:50
+            [language_id] => 1
+            [name] => Шкафы-купе
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Шкафы-купе
+            [meta_description] => Шкафы-купе -
+            [meta_keyword] => шкафы-купе,
+            [seo_keyword] => shkafy-kupe
+            [seo_h1] => Шкафы-купе
+            [seo_h2] => Шкафы-купе
+            [seo_h3] => Шкафы-купе
+            [store_id] => 0
+        )
+
+    [2] => Array
+        (
+            [category_id] => 236
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 3
+            [status] => 1
+            [date_added] => 2022-03-28 15:05:15
+            [date_modified] => 2022-03-28 15:05:15
+            [language_id] => 1
+            [name] => Распашные шкафы
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Распашные шкафы
+            [meta_description] => Распашные шкафы -
+            [meta_keyword] => распашные шкафы,
+            [seo_keyword] => raspashnye-shkafy
+            [seo_h1] => Распашные шкафы
+            [seo_h2] => Распашные шкафы
+            [seo_h3] => Распашные шкафы
+            [store_id] => 0
+        )
+
+    [3] => Array
+        (
+            [category_id] => 245
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 4
+            [status] => 1
+            [date_added] => 2022-03-28 15:33:15
+            [date_modified] => 2022-03-28 15:33:15
+            [language_id] => 1
+            [name] => Мебель для кухни
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мебель для кухни
+            [meta_description] => Мебель для кухни -
+            [meta_keyword] => мебель для кухни,
+            [seo_keyword] => mebel-dlya-kuhni
+            [seo_h1] => Мебель для кухни
+            [seo_h2] => Мебель для кухни
+            [seo_h3] => Мебель для кухни
+            [store_id] => 0
+        )
+
+    [4] => Array
+        (
+            [category_id] => 257
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 5
+            [status] => 1
+            [date_added] => 2022-03-28 16:38:12
+            [date_modified] => 2022-03-28 16:38:12
+            [language_id] => 1
+            [name] => Столы
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Столы
+            [meta_description] => Столы -
+            [meta_keyword] => столы,
+            [seo_keyword] => stoly
+            [seo_h1] => Столы
+            [seo_h2] => Столы
+            [seo_h3] => Столы
+            [store_id] => 0
+        )
+
+    [5] => Array
+        (
+            [category_id] => 265
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 6
+            [status] => 1
+            [date_added] => 2022-03-28 16:48:57
+            [date_modified] => 2022-03-28 16:48:57
+            [language_id] => 1
+            [name] => Гостиные
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Гостиные
+            [meta_description] => Гостиные -
+            [meta_keyword] => гостиные,
+            [seo_keyword] => gostinye
+            [seo_h1] => Гостиные
+            [seo_h2] => Гостиные
+            [seo_h3] => Гостиные
+            [store_id] => 0
+        )
+
+    [6] => Array
+        (
+            [category_id] => 271
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 7
+            [status] => 1
+            [date_added] => 2022-03-28 16:53:44
+            [date_modified] => 2022-03-28 16:53:44
+            [language_id] => 1
+            [name] => Комоды
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Комоды
+            [meta_description] => Комоды -
+            [meta_keyword] => комоды,
+            [seo_keyword] => komody
+            [seo_h1] => Комоды
+            [seo_h2] => Комоды
+            [seo_h3] => Комоды
+            [store_id] => 0
+        )
+
+    [7] => Array
+        (
+            [category_id] => 272
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 8
+            [status] => 1
+            [date_added] => 2022-03-28 16:57:37
+            [date_modified] => 2022-03-28 16:57:37
+            [language_id] => 1
+            [name] => Мебель для прихожей
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мебель для прихожей
+            [meta_description] => Мебель для прихожей -
+            [meta_keyword] => мебель для прихожей,
+            [seo_keyword] => mebel-dlya-prihozhej
+            [seo_h1] => Мебель для прихожей
+            [seo_h2] => Мебель для прихожей
+            [seo_h3] => Мебель для прихожей
+            [store_id] => 0
+        )
+
+    [8] => Array
+        (
+            [category_id] => 279
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 9
+            [status] => 1
+            [date_added] => 2022-03-28 17:04:40
+            [date_modified] => 2022-03-28 17:04:40
+            [language_id] => 1
+            [name] => Спальни
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Спальни
+            [meta_description] => Спальни -
+            [meta_keyword] => спальни,
+            [seo_keyword] => spal-ni
+            [seo_h1] => Спальни
+            [seo_h2] => Спальни
+            [seo_h3] => Спальни
+            [store_id] => 0
+        )
+
+    [9] => Array
+        (
+            [category_id] => 288
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 10
+            [status] => 1
+            [date_added] => 2022-03-28 17:51:46
+            [date_modified] => 2022-03-28 17:51:46
+            [language_id] => 1
+            [name] => Кровати и тахты
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Кровати и тахты
+            [meta_description] => Кровати и тахты -
+            [meta_keyword] => кровати и тахты,
+            [seo_keyword] => krovati-i-tahty
+            [seo_h1] => Кровати и тахты
+            [seo_h2] => Кровати и тахты
+            [seo_h3] => Кровати и тахты
+            [store_id] => 0
+        )
+
+    [10] => Array
+        (
+            [category_id] => 295
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 11
+            [status] => 1
+            [date_added] => 2022-03-28 17:58:31
+            [date_modified] => 2022-03-28 17:58:31
+            [language_id] => 1
+            [name] => Матрасы, наматрасники
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Матрасы, наматрасники
+            [meta_description] => Матрасы, наматрасники -
+            [meta_keyword] => матрасы, наматрасники,
+            [seo_keyword] => matrasy-namatrasniki
+            [seo_h1] => Матрасы, наматрасники
+            [seo_h2] => Матрасы, наматрасники
+            [seo_h3] => Матрасы, наматрасники
+            [store_id] => 0
+        )
+
+    [11] => Array
+        (
+            [category_id] => 296
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 12
+            [status] => 1
+            [date_added] => 2022-03-28 17:59:07
+            [date_modified] => 2022-03-28 18:15:09
+            [language_id] => 1
+            [name] => Детская мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Детская мебель
+            [meta_description] => Детская мебель -
+            [meta_keyword] => детская мебель,
+            [seo_keyword] => detskaya-mebel
+            [seo_h1] => Детская мебель
+            [seo_h2] => Детская мебель
+            [seo_h3] => Детская мебель
+            [store_id] => 0
+        )
+
+    [12] => Array
+        (
+            [category_id] => 305
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 13
+            [status] => 1
+            [date_added] => 2022-03-28 18:17:10
+            [date_modified] => 2022-03-28 18:17:10
+            [language_id] => 1
+            [name] => Стулья и табуреты
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Стулья и табуреты
+            [meta_description] => Стулья и табуреты -
+            [meta_keyword] => стулья и табуреты,
+            [seo_keyword] => stul-ya-i-taburety
+            [seo_h1] => Стулья и табуреты
+            [seo_h2] => Стулья и табуреты
+            [seo_h3] => Стулья и табуреты
+            [store_id] => 0
+        )
+
+    [13] => Array
+        (
+            [category_id] => 308
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 14
+            [status] => 1
+            [date_added] => 2022-03-28 18:31:58
+            [date_modified] => 2022-03-28 18:31:58
+            [language_id] => 1
+            [name] => Офисная мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Офисная мебель
+            [meta_description] => Офисная мебель -
+            [meta_keyword] => офисная мебель,
+            [seo_keyword] => ofisnaya-mebel
+            [seo_h1] => Офисная мебель
+            [seo_h2] => Офисная мебель
+            [seo_h3] => Офисная мебель
+            [store_id] => 0
+        )
+
+    [14] => Array
+        (
+            [category_id] => 136
+            [image] => catalog/Kategorii/011.png
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 1000
+            [status] => 1
+            [date_added] => 2021-03-31 09:57:20
+            [date_modified] => 2021-12-04 12:19:35
+            [language_id] => 1
+            [name] => Готовые коллекции мебели
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Готовый интерьер комнат
+            [meta_description] => Готовый интерьер комнат -
+            [meta_keyword] => готовый интерьер комнат,
+            [seo_keyword] => gotovyj-inter-er-komnat
+            [seo_h1] => Готовый интерьер комнат
+            [seo_h2] => Готовый интерьер комнат
+            [seo_h3] => Готовый интерьер комнат
+            [store_id] => 0
+        )
+
+)
+
+2022-09-02 14:42:32 Array
+(
+    [0] => Array
+        (
+            [category_id] => 230
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 1
+            [status] => 1
+            [date_added] => 2022-03-28 14:56:39
+            [date_modified] => 2022-03-28 14:56:39
+            [language_id] => 1
+            [name] => Мягкая мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мягкая мебель
+            [meta_description] => Мягкая мебель -
+            [meta_keyword] => мягкая мебель,
+            [seo_keyword] => myagkaya-mebel
+            [seo_h1] => Мягкая мебель
+            [seo_h2] => Мягкая мебель
+            [seo_h3] => Мягкая мебель
+            [store_id] => 0
+        )
+
+    [1] => Array
+        (
+            [category_id] => 235
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 2
+            [status] => 1
+            [date_added] => 2022-03-28 15:02:50
+            [date_modified] => 2022-03-28 15:02:50
+            [language_id] => 1
+            [name] => Шкафы-купе
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Шкафы-купе
+            [meta_description] => Шкафы-купе -
+            [meta_keyword] => шкафы-купе,
+            [seo_keyword] => shkafy-kupe
+            [seo_h1] => Шкафы-купе
+            [seo_h2] => Шкафы-купе
+            [seo_h3] => Шкафы-купе
+            [store_id] => 0
+        )
+
+    [2] => Array
+        (
+            [category_id] => 236
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 3
+            [status] => 1
+            [date_added] => 2022-03-28 15:05:15
+            [date_modified] => 2022-03-28 15:05:15
+            [language_id] => 1
+            [name] => Распашные шкафы
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Распашные шкафы
+            [meta_description] => Распашные шкафы -
+            [meta_keyword] => распашные шкафы,
+            [seo_keyword] => raspashnye-shkafy
+            [seo_h1] => Распашные шкафы
+            [seo_h2] => Распашные шкафы
+            [seo_h3] => Распашные шкафы
+            [store_id] => 0
+        )
+
+    [3] => Array
+        (
+            [category_id] => 245
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 4
+            [status] => 1
+            [date_added] => 2022-03-28 15:33:15
+            [date_modified] => 2022-03-28 15:33:15
+            [language_id] => 1
+            [name] => Мебель для кухни
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мебель для кухни
+            [meta_description] => Мебель для кухни -
+            [meta_keyword] => мебель для кухни,
+            [seo_keyword] => mebel-dlya-kuhni
+            [seo_h1] => Мебель для кухни
+            [seo_h2] => Мебель для кухни
+            [seo_h3] => Мебель для кухни
+            [store_id] => 0
+        )
+
+    [4] => Array
+        (
+            [category_id] => 257
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 5
+            [status] => 1
+            [date_added] => 2022-03-28 16:38:12
+            [date_modified] => 2022-03-28 16:38:12
+            [language_id] => 1
+            [name] => Столы
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Столы
+            [meta_description] => Столы -
+            [meta_keyword] => столы,
+            [seo_keyword] => stoly
+            [seo_h1] => Столы
+            [seo_h2] => Столы
+            [seo_h3] => Столы
+            [store_id] => 0
+        )
+
+    [5] => Array
+        (
+            [category_id] => 265
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 6
+            [status] => 1
+            [date_added] => 2022-03-28 16:48:57
+            [date_modified] => 2022-03-28 16:48:57
+            [language_id] => 1
+            [name] => Гостиные
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Гостиные
+            [meta_description] => Гостиные -
+            [meta_keyword] => гостиные,
+            [seo_keyword] => gostinye
+            [seo_h1] => Гостиные
+            [seo_h2] => Гостиные
+            [seo_h3] => Гостиные
+            [store_id] => 0
+        )
+
+    [6] => Array
+        (
+            [category_id] => 271
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 7
+            [status] => 1
+            [date_added] => 2022-03-28 16:53:44
+            [date_modified] => 2022-03-28 16:53:44
+            [language_id] => 1
+            [name] => Комоды
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Комоды
+            [meta_description] => Комоды -
+            [meta_keyword] => комоды,
+            [seo_keyword] => komody
+            [seo_h1] => Комоды
+            [seo_h2] => Комоды
+            [seo_h3] => Комоды
+            [store_id] => 0
+        )
+
+    [7] => Array
+        (
+            [category_id] => 272
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 8
+            [status] => 1
+            [date_added] => 2022-03-28 16:57:37
+            [date_modified] => 2022-03-28 16:57:37
+            [language_id] => 1
+            [name] => Мебель для прихожей
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мебель для прихожей
+            [meta_description] => Мебель для прихожей -
+            [meta_keyword] => мебель для прихожей,
+            [seo_keyword] => mebel-dlya-prihozhej
+            [seo_h1] => Мебель для прихожей
+            [seo_h2] => Мебель для прихожей
+            [seo_h3] => Мебель для прихожей
+            [store_id] => 0
+        )
+
+    [8] => Array
+        (
+            [category_id] => 279
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 9
+            [status] => 1
+            [date_added] => 2022-03-28 17:04:40
+            [date_modified] => 2022-03-28 17:04:40
+            [language_id] => 1
+            [name] => Спальни
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Спальни
+            [meta_description] => Спальни -
+            [meta_keyword] => спальни,
+            [seo_keyword] => spal-ni
+            [seo_h1] => Спальни
+            [seo_h2] => Спальни
+            [seo_h3] => Спальни
+            [store_id] => 0
+        )
+
+    [9] => Array
+        (
+            [category_id] => 288
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 10
+            [status] => 1
+            [date_added] => 2022-03-28 17:51:46
+            [date_modified] => 2022-03-28 17:51:46
+            [language_id] => 1
+            [name] => Кровати и тахты
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Кровати и тахты
+            [meta_description] => Кровати и тахты -
+            [meta_keyword] => кровати и тахты,
+            [seo_keyword] => krovati-i-tahty
+            [seo_h1] => Кровати и тахты
+            [seo_h2] => Кровати и тахты
+            [seo_h3] => Кровати и тахты
+            [store_id] => 0
+        )
+
+    [10] => Array
+        (
+            [category_id] => 295
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 11
+            [status] => 1
+            [date_added] => 2022-03-28 17:58:31
+            [date_modified] => 2022-03-28 17:58:31
+            [language_id] => 1
+            [name] => Матрасы, наматрасники
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Матрасы, наматрасники
+            [meta_description] => Матрасы, наматрасники -
+            [meta_keyword] => матрасы, наматрасники,
+            [seo_keyword] => matrasy-namatrasniki
+            [seo_h1] => Матрасы, наматрасники
+            [seo_h2] => Матрасы, наматрасники
+            [seo_h3] => Матрасы, наматрасники
+            [store_id] => 0
+        )
+
+    [11] => Array
+        (
+            [category_id] => 296
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 12
+            [status] => 1
+            [date_added] => 2022-03-28 17:59:07
+            [date_modified] => 2022-03-28 18:15:09
+            [language_id] => 1
+            [name] => Детская мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Детская мебель
+            [meta_description] => Детская мебель -
+            [meta_keyword] => детская мебель,
+            [seo_keyword] => detskaya-mebel
+            [seo_h1] => Детская мебель
+            [seo_h2] => Детская мебель
+            [seo_h3] => Детская мебель
+            [store_id] => 0
+        )
+
+    [12] => Array
+        (
+            [category_id] => 305
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 13
+            [status] => 1
+            [date_added] => 2022-03-28 18:17:10
+            [date_modified] => 2022-03-28 18:17:10
+            [language_id] => 1
+            [name] => Стулья и табуреты
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Стулья и табуреты
+            [meta_description] => Стулья и табуреты -
+            [meta_keyword] => стулья и табуреты,
+            [seo_keyword] => stul-ya-i-taburety
+            [seo_h1] => Стулья и табуреты
+            [seo_h2] => Стулья и табуреты
+            [seo_h3] => Стулья и табуреты
+            [store_id] => 0
+        )
+
+    [13] => Array
+        (
+            [category_id] => 308
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 14
+            [status] => 1
+            [date_added] => 2022-03-28 18:31:58
+            [date_modified] => 2022-03-28 18:31:58
+            [language_id] => 1
+            [name] => Офисная мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Офисная мебель
+            [meta_description] => Офисная мебель -
+            [meta_keyword] => офисная мебель,
+            [seo_keyword] => ofisnaya-mebel
+            [seo_h1] => Офисная мебель
+            [seo_h2] => Офисная мебель
+            [seo_h3] => Офисная мебель
+            [store_id] => 0
+        )
+
+    [14] => Array
+        (
+            [category_id] => 136
+            [image] => catalog/Kategorii/011.png
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 1000
+            [status] => 1
+            [date_added] => 2021-03-31 09:57:20
+            [date_modified] => 2021-12-04 12:19:35
+            [language_id] => 1
+            [name] => Готовые коллекции мебели
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Готовый интерьер комнат
+            [meta_description] => Готовый интерьер комнат -
+            [meta_keyword] => готовый интерьер комнат,
+            [seo_keyword] => gotovyj-inter-er-komnat
+            [seo_h1] => Готовый интерьер комнат
+            [seo_h2] => Готовый интерьер комнат
+            [seo_h3] => Готовый интерьер комнат
+            [store_id] => 0
+        )
+
+)
+
+2022-09-02 14:43:35 Array
+(
+    [0] => Array
+        (
+            [category_id] => 230
+            [image] => catalog/soft_mebel.jpg
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 1
+            [status] => 1
+            [date_added] => 2022-03-28 14:56:39
+            [date_modified] => 2022-09-02 14:43:33
+            [language_id] => 1
+            [name] => Мягкая мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мягкая мебель
+            [meta_description] => Мягкая мебель -
+            [meta_keyword] => мягкая мебель,
+            [seo_keyword] => mjagkaja-mebel
+            [seo_h1] => Мягкая мебель
+            [seo_h2] => Мягкая мебель
+            [seo_h3] => Мягкая мебель
+            [store_id] => 0
+        )
+
+    [1] => Array
+        (
+            [category_id] => 235
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 2
+            [status] => 1
+            [date_added] => 2022-03-28 15:02:50
+            [date_modified] => 2022-03-28 15:02:50
+            [language_id] => 1
+            [name] => Шкафы-купе
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Шкафы-купе
+            [meta_description] => Шкафы-купе -
+            [meta_keyword] => шкафы-купе,
+            [seo_keyword] => shkafy-kupe
+            [seo_h1] => Шкафы-купе
+            [seo_h2] => Шкафы-купе
+            [seo_h3] => Шкафы-купе
+            [store_id] => 0
+        )
+
+    [2] => Array
+        (
+            [category_id] => 236
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 3
+            [status] => 1
+            [date_added] => 2022-03-28 15:05:15
+            [date_modified] => 2022-03-28 15:05:15
+            [language_id] => 1
+            [name] => Распашные шкафы
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Распашные шкафы
+            [meta_description] => Распашные шкафы -
+            [meta_keyword] => распашные шкафы,
+            [seo_keyword] => raspashnye-shkafy
+            [seo_h1] => Распашные шкафы
+            [seo_h2] => Распашные шкафы
+            [seo_h3] => Распашные шкафы
+            [store_id] => 0
+        )
+
+    [3] => Array
+        (
+            [category_id] => 245
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 4
+            [status] => 1
+            [date_added] => 2022-03-28 15:33:15
+            [date_modified] => 2022-03-28 15:33:15
+            [language_id] => 1
+            [name] => Мебель для кухни
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мебель для кухни
+            [meta_description] => Мебель для кухни -
+            [meta_keyword] => мебель для кухни,
+            [seo_keyword] => mebel-dlya-kuhni
+            [seo_h1] => Мебель для кухни
+            [seo_h2] => Мебель для кухни
+            [seo_h3] => Мебель для кухни
+            [store_id] => 0
+        )
+
+    [4] => Array
+        (
+            [category_id] => 257
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 5
+            [status] => 1
+            [date_added] => 2022-03-28 16:38:12
+            [date_modified] => 2022-03-28 16:38:12
+            [language_id] => 1
+            [name] => Столы
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Столы
+            [meta_description] => Столы -
+            [meta_keyword] => столы,
+            [seo_keyword] => stoly
+            [seo_h1] => Столы
+            [seo_h2] => Столы
+            [seo_h3] => Столы
+            [store_id] => 0
+        )
+
+    [5] => Array
+        (
+            [category_id] => 265
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 6
+            [status] => 1
+            [date_added] => 2022-03-28 16:48:57
+            [date_modified] => 2022-03-28 16:48:57
+            [language_id] => 1
+            [name] => Гостиные
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Гостиные
+            [meta_description] => Гостиные -
+            [meta_keyword] => гостиные,
+            [seo_keyword] => gostinye
+            [seo_h1] => Гостиные
+            [seo_h2] => Гостиные
+            [seo_h3] => Гостиные
+            [store_id] => 0
+        )
+
+    [6] => Array
+        (
+            [category_id] => 271
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 7
+            [status] => 1
+            [date_added] => 2022-03-28 16:53:44
+            [date_modified] => 2022-03-28 16:53:44
+            [language_id] => 1
+            [name] => Комоды
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Комоды
+            [meta_description] => Комоды -
+            [meta_keyword] => комоды,
+            [seo_keyword] => komody
+            [seo_h1] => Комоды
+            [seo_h2] => Комоды
+            [seo_h3] => Комоды
+            [store_id] => 0
+        )
+
+    [7] => Array
+        (
+            [category_id] => 272
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 8
+            [status] => 1
+            [date_added] => 2022-03-28 16:57:37
+            [date_modified] => 2022-03-28 16:57:37
+            [language_id] => 1
+            [name] => Мебель для прихожей
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мебель для прихожей
+            [meta_description] => Мебель для прихожей -
+            [meta_keyword] => мебель для прихожей,
+            [seo_keyword] => mebel-dlya-prihozhej
+            [seo_h1] => Мебель для прихожей
+            [seo_h2] => Мебель для прихожей
+            [seo_h3] => Мебель для прихожей
+            [store_id] => 0
+        )
+
+    [8] => Array
+        (
+            [category_id] => 279
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 9
+            [status] => 1
+            [date_added] => 2022-03-28 17:04:40
+            [date_modified] => 2022-03-28 17:04:40
+            [language_id] => 1
+            [name] => Спальни
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Спальни
+            [meta_description] => Спальни -
+            [meta_keyword] => спальни,
+            [seo_keyword] => spal-ni
+            [seo_h1] => Спальни
+            [seo_h2] => Спальни
+            [seo_h3] => Спальни
+            [store_id] => 0
+        )
+
+    [9] => Array
+        (
+            [category_id] => 288
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 10
+            [status] => 1
+            [date_added] => 2022-03-28 17:51:46
+            [date_modified] => 2022-03-28 17:51:46
+            [language_id] => 1
+            [name] => Кровати и тахты
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Кровати и тахты
+            [meta_description] => Кровати и тахты -
+            [meta_keyword] => кровати и тахты,
+            [seo_keyword] => krovati-i-tahty
+            [seo_h1] => Кровати и тахты
+            [seo_h2] => Кровати и тахты
+            [seo_h3] => Кровати и тахты
+            [store_id] => 0
+        )
+
+    [10] => Array
+        (
+            [category_id] => 295
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 11
+            [status] => 1
+            [date_added] => 2022-03-28 17:58:31
+            [date_modified] => 2022-03-28 17:58:31
+            [language_id] => 1
+            [name] => Матрасы, наматрасники
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Матрасы, наматрасники
+            [meta_description] => Матрасы, наматрасники -
+            [meta_keyword] => матрасы, наматрасники,
+            [seo_keyword] => matrasy-namatrasniki
+            [seo_h1] => Матрасы, наматрасники
+            [seo_h2] => Матрасы, наматрасники
+            [seo_h3] => Матрасы, наматрасники
+            [store_id] => 0
+        )
+
+    [11] => Array
+        (
+            [category_id] => 296
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 12
+            [status] => 1
+            [date_added] => 2022-03-28 17:59:07
+            [date_modified] => 2022-03-28 18:15:09
+            [language_id] => 1
+            [name] => Детская мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Детская мебель
+            [meta_description] => Детская мебель -
+            [meta_keyword] => детская мебель,
+            [seo_keyword] => detskaya-mebel
+            [seo_h1] => Детская мебель
+            [seo_h2] => Детская мебель
+            [seo_h3] => Детская мебель
+            [store_id] => 0
+        )
+
+    [12] => Array
+        (
+            [category_id] => 305
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 13
+            [status] => 1
+            [date_added] => 2022-03-28 18:17:10
+            [date_modified] => 2022-03-28 18:17:10
+            [language_id] => 1
+            [name] => Стулья и табуреты
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Стулья и табуреты
+            [meta_description] => Стулья и табуреты -
+            [meta_keyword] => стулья и табуреты,
+            [seo_keyword] => stul-ya-i-taburety
+            [seo_h1] => Стулья и табуреты
+            [seo_h2] => Стулья и табуреты
+            [seo_h3] => Стулья и табуреты
+            [store_id] => 0
+        )
+
+    [13] => Array
+        (
+            [category_id] => 308
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 14
+            [status] => 1
+            [date_added] => 2022-03-28 18:31:58
+            [date_modified] => 2022-03-28 18:31:58
+            [language_id] => 1
+            [name] => Офисная мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Офисная мебель
+            [meta_description] => Офисная мебель -
+            [meta_keyword] => офисная мебель,
+            [seo_keyword] => ofisnaya-mebel
+            [seo_h1] => Офисная мебель
+            [seo_h2] => Офисная мебель
+            [seo_h3] => Офисная мебель
+            [store_id] => 0
+        )
+
+    [14] => Array
+        (
+            [category_id] => 136
+            [image] => catalog/Kategorii/011.png
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 1000
+            [status] => 1
+            [date_added] => 2021-03-31 09:57:20
+            [date_modified] => 2021-12-04 12:19:35
+            [language_id] => 1
+            [name] => Готовые коллекции мебели
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Готовый интерьер комнат
+            [meta_description] => Готовый интерьер комнат -
+            [meta_keyword] => готовый интерьер комнат,
+            [seo_keyword] => gotovyj-inter-er-komnat
+            [seo_h1] => Готовый интерьер комнат
+            [seo_h2] => Готовый интерьер комнат
+            [seo_h3] => Готовый интерьер комнат
+            [store_id] => 0
+        )
+
+)
+
+2022-09-02 14:44:32 Array
+(
+    [0] => Array
+        (
+            [category_id] => 230
+            [image] => catalog/soft_mebel.jpg
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 1
+            [status] => 1
+            [date_added] => 2022-03-28 14:56:39
+            [date_modified] => 2022-09-02 14:43:33
+            [language_id] => 1
+            [name] => Мягкая мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мягкая мебель
+            [meta_description] => Мягкая мебель -
+            [meta_keyword] => мягкая мебель,
+            [seo_keyword] => mjagkaja-mebel
+            [seo_h1] => Мягкая мебель
+            [seo_h2] => Мягкая мебель
+            [seo_h3] => Мягкая мебель
+            [store_id] => 0
+        )
+
+    [1] => Array
+        (
+            [category_id] => 235
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 2
+            [status] => 1
+            [date_added] => 2022-03-28 15:02:50
+            [date_modified] => 2022-03-28 15:02:50
+            [language_id] => 1
+            [name] => Шкафы-купе
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Шкафы-купе
+            [meta_description] => Шкафы-купе -
+            [meta_keyword] => шкафы-купе,
+            [seo_keyword] => shkafy-kupe
+            [seo_h1] => Шкафы-купе
+            [seo_h2] => Шкафы-купе
+            [seo_h3] => Шкафы-купе
+            [store_id] => 0
+        )
+
+    [2] => Array
+        (
+            [category_id] => 236
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 3
+            [status] => 1
+            [date_added] => 2022-03-28 15:05:15
+            [date_modified] => 2022-03-28 15:05:15
+            [language_id] => 1
+            [name] => Распашные шкафы
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Распашные шкафы
+            [meta_description] => Распашные шкафы -
+            [meta_keyword] => распашные шкафы,
+            [seo_keyword] => raspashnye-shkafy
+            [seo_h1] => Распашные шкафы
+            [seo_h2] => Распашные шкафы
+            [seo_h3] => Распашные шкафы
+            [store_id] => 0
+        )
+
+    [3] => Array
+        (
+            [category_id] => 245
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 4
+            [status] => 1
+            [date_added] => 2022-03-28 15:33:15
+            [date_modified] => 2022-03-28 15:33:15
+            [language_id] => 1
+            [name] => Мебель для кухни
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мебель для кухни
+            [meta_description] => Мебель для кухни -
+            [meta_keyword] => мебель для кухни,
+            [seo_keyword] => mebel-dlya-kuhni
+            [seo_h1] => Мебель для кухни
+            [seo_h2] => Мебель для кухни
+            [seo_h3] => Мебель для кухни
+            [store_id] => 0
+        )
+
+    [4] => Array
+        (
+            [category_id] => 257
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 5
+            [status] => 1
+            [date_added] => 2022-03-28 16:38:12
+            [date_modified] => 2022-03-28 16:38:12
+            [language_id] => 1
+            [name] => Столы
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Столы
+            [meta_description] => Столы -
+            [meta_keyword] => столы,
+            [seo_keyword] => stoly
+            [seo_h1] => Столы
+            [seo_h2] => Столы
+            [seo_h3] => Столы
+            [store_id] => 0
+        )
+
+    [5] => Array
+        (
+            [category_id] => 265
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 6
+            [status] => 1
+            [date_added] => 2022-03-28 16:48:57
+            [date_modified] => 2022-03-28 16:48:57
+            [language_id] => 1
+            [name] => Гостиные
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Гостиные
+            [meta_description] => Гостиные -
+            [meta_keyword] => гостиные,
+            [seo_keyword] => gostinye
+            [seo_h1] => Гостиные
+            [seo_h2] => Гостиные
+            [seo_h3] => Гостиные
+            [store_id] => 0
+        )
+
+    [6] => Array
+        (
+            [category_id] => 271
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 7
+            [status] => 1
+            [date_added] => 2022-03-28 16:53:44
+            [date_modified] => 2022-03-28 16:53:44
+            [language_id] => 1
+            [name] => Комоды
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Комоды
+            [meta_description] => Комоды -
+            [meta_keyword] => комоды,
+            [seo_keyword] => komody
+            [seo_h1] => Комоды
+            [seo_h2] => Комоды
+            [seo_h3] => Комоды
+            [store_id] => 0
+        )
+
+    [7] => Array
+        (
+            [category_id] => 272
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 8
+            [status] => 1
+            [date_added] => 2022-03-28 16:57:37
+            [date_modified] => 2022-03-28 16:57:37
+            [language_id] => 1
+            [name] => Мебель для прихожей
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мебель для прихожей
+            [meta_description] => Мебель для прихожей -
+            [meta_keyword] => мебель для прихожей,
+            [seo_keyword] => mebel-dlya-prihozhej
+            [seo_h1] => Мебель для прихожей
+            [seo_h2] => Мебель для прихожей
+            [seo_h3] => Мебель для прихожей
+            [store_id] => 0
+        )
+
+    [8] => Array
+        (
+            [category_id] => 279
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 9
+            [status] => 1
+            [date_added] => 2022-03-28 17:04:40
+            [date_modified] => 2022-03-28 17:04:40
+            [language_id] => 1
+            [name] => Спальни
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Спальни
+            [meta_description] => Спальни -
+            [meta_keyword] => спальни,
+            [seo_keyword] => spal-ni
+            [seo_h1] => Спальни
+            [seo_h2] => Спальни
+            [seo_h3] => Спальни
+            [store_id] => 0
+        )
+
+    [9] => Array
+        (
+            [category_id] => 288
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 10
+            [status] => 1
+            [date_added] => 2022-03-28 17:51:46
+            [date_modified] => 2022-03-28 17:51:46
+            [language_id] => 1
+            [name] => Кровати и тахты
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Кровати и тахты
+            [meta_description] => Кровати и тахты -
+            [meta_keyword] => кровати и тахты,
+            [seo_keyword] => krovati-i-tahty
+            [seo_h1] => Кровати и тахты
+            [seo_h2] => Кровати и тахты
+            [seo_h3] => Кровати и тахты
+            [store_id] => 0
+        )
+
+    [10] => Array
+        (
+            [category_id] => 295
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 11
+            [status] => 1
+            [date_added] => 2022-03-28 17:58:31
+            [date_modified] => 2022-03-28 17:58:31
+            [language_id] => 1
+            [name] => Матрасы, наматрасники
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Матрасы, наматрасники
+            [meta_description] => Матрасы, наматрасники -
+            [meta_keyword] => матрасы, наматрасники,
+            [seo_keyword] => matrasy-namatrasniki
+            [seo_h1] => Матрасы, наматрасники
+            [seo_h2] => Матрасы, наматрасники
+            [seo_h3] => Матрасы, наматрасники
+            [store_id] => 0
+        )
+
+    [11] => Array
+        (
+            [category_id] => 296
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 12
+            [status] => 1
+            [date_added] => 2022-03-28 17:59:07
+            [date_modified] => 2022-03-28 18:15:09
+            [language_id] => 1
+            [name] => Детская мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Детская мебель
+            [meta_description] => Детская мебель -
+            [meta_keyword] => детская мебель,
+            [seo_keyword] => detskaya-mebel
+            [seo_h1] => Детская мебель
+            [seo_h2] => Детская мебель
+            [seo_h3] => Детская мебель
+            [store_id] => 0
+        )
+
+    [12] => Array
+        (
+            [category_id] => 305
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 13
+            [status] => 1
+            [date_added] => 2022-03-28 18:17:10
+            [date_modified] => 2022-03-28 18:17:10
+            [language_id] => 1
+            [name] => Стулья и табуреты
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Стулья и табуреты
+            [meta_description] => Стулья и табуреты -
+            [meta_keyword] => стулья и табуреты,
+            [seo_keyword] => stul-ya-i-taburety
+            [seo_h1] => Стулья и табуреты
+            [seo_h2] => Стулья и табуреты
+            [seo_h3] => Стулья и табуреты
+            [store_id] => 0
+        )
+
+    [13] => Array
+        (
+            [category_id] => 308
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 14
+            [status] => 1
+            [date_added] => 2022-03-28 18:31:58
+            [date_modified] => 2022-03-28 18:31:58
+            [language_id] => 1
+            [name] => Офисная мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Офисная мебель
+            [meta_description] => Офисная мебель -
+            [meta_keyword] => офисная мебель,
+            [seo_keyword] => ofisnaya-mebel
+            [seo_h1] => Офисная мебель
+            [seo_h2] => Офисная мебель
+            [seo_h3] => Офисная мебель
+            [store_id] => 0
+        )
+
+    [14] => Array
+        (
+            [category_id] => 136
+            [image] => catalog/Kategorii/011.png
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 1000
+            [status] => 1
+            [date_added] => 2021-03-31 09:57:20
+            [date_modified] => 2021-12-04 12:19:35
+            [language_id] => 1
+            [name] => Готовые коллекции мебели
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Готовый интерьер комнат
+            [meta_description] => Готовый интерьер комнат -
+            [meta_keyword] => готовый интерьер комнат,
+            [seo_keyword] => gotovyj-inter-er-komnat
+            [seo_h1] => Готовый интерьер комнат
+            [seo_h2] => Готовый интерьер комнат
+            [seo_h3] => Готовый интерьер комнат
+            [store_id] => 0
+        )
+
+)
+
+2022-09-02 14:44:35 Array
+(
+    [0] => Array
+        (
+            [category_id] => 230
+            [image] => catalog/soft_mebel.jpg
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 1
+            [status] => 1
+            [date_added] => 2022-03-28 14:56:39
+            [date_modified] => 2022-09-02 14:43:33
+            [language_id] => 1
+            [name] => Мягкая мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мягкая мебель
+            [meta_description] => Мягкая мебель -
+            [meta_keyword] => мягкая мебель,
+            [seo_keyword] => mjagkaja-mebel
+            [seo_h1] => Мягкая мебель
+            [seo_h2] => Мягкая мебель
+            [seo_h3] => Мягкая мебель
+            [store_id] => 0
+        )
+
+    [1] => Array
+        (
+            [category_id] => 235
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 2
+            [status] => 1
+            [date_added] => 2022-03-28 15:02:50
+            [date_modified] => 2022-03-28 15:02:50
+            [language_id] => 1
+            [name] => Шкафы-купе
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Шкафы-купе
+            [meta_description] => Шкафы-купе -
+            [meta_keyword] => шкафы-купе,
+            [seo_keyword] => shkafy-kupe
+            [seo_h1] => Шкафы-купе
+            [seo_h2] => Шкафы-купе
+            [seo_h3] => Шкафы-купе
+            [store_id] => 0
+        )
+
+    [2] => Array
+        (
+            [category_id] => 236
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 3
+            [status] => 1
+            [date_added] => 2022-03-28 15:05:15
+            [date_modified] => 2022-03-28 15:05:15
+            [language_id] => 1
+            [name] => Распашные шкафы
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Распашные шкафы
+            [meta_description] => Распашные шкафы -
+            [meta_keyword] => распашные шкафы,
+            [seo_keyword] => raspashnye-shkafy
+            [seo_h1] => Распашные шкафы
+            [seo_h2] => Распашные шкафы
+            [seo_h3] => Распашные шкафы
+            [store_id] => 0
+        )
+
+    [3] => Array
+        (
+            [category_id] => 245
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 4
+            [status] => 1
+            [date_added] => 2022-03-28 15:33:15
+            [date_modified] => 2022-03-28 15:33:15
+            [language_id] => 1
+            [name] => Мебель для кухни
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мебель для кухни
+            [meta_description] => Мебель для кухни -
+            [meta_keyword] => мебель для кухни,
+            [seo_keyword] => mebel-dlya-kuhni
+            [seo_h1] => Мебель для кухни
+            [seo_h2] => Мебель для кухни
+            [seo_h3] => Мебель для кухни
+            [store_id] => 0
+        )
+
+    [4] => Array
+        (
+            [category_id] => 257
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 5
+            [status] => 1
+            [date_added] => 2022-03-28 16:38:12
+            [date_modified] => 2022-03-28 16:38:12
+            [language_id] => 1
+            [name] => Столы
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Столы
+            [meta_description] => Столы -
+            [meta_keyword] => столы,
+            [seo_keyword] => stoly
+            [seo_h1] => Столы
+            [seo_h2] => Столы
+            [seo_h3] => Столы
+            [store_id] => 0
+        )
+
+    [5] => Array
+        (
+            [category_id] => 265
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 6
+            [status] => 1
+            [date_added] => 2022-03-28 16:48:57
+            [date_modified] => 2022-03-28 16:48:57
+            [language_id] => 1
+            [name] => Гостиные
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Гостиные
+            [meta_description] => Гостиные -
+            [meta_keyword] => гостиные,
+            [seo_keyword] => gostinye
+            [seo_h1] => Гостиные
+            [seo_h2] => Гостиные
+            [seo_h3] => Гостиные
+            [store_id] => 0
+        )
+
+    [6] => Array
+        (
+            [category_id] => 271
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 7
+            [status] => 1
+            [date_added] => 2022-03-28 16:53:44
+            [date_modified] => 2022-03-28 16:53:44
+            [language_id] => 1
+            [name] => Комоды
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Комоды
+            [meta_description] => Комоды -
+            [meta_keyword] => комоды,
+            [seo_keyword] => komody
+            [seo_h1] => Комоды
+            [seo_h2] => Комоды
+            [seo_h3] => Комоды
+            [store_id] => 0
+        )
+
+    [7] => Array
+        (
+            [category_id] => 272
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 8
+            [status] => 1
+            [date_added] => 2022-03-28 16:57:37
+            [date_modified] => 2022-03-28 16:57:37
+            [language_id] => 1
+            [name] => Мебель для прихожей
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мебель для прихожей
+            [meta_description] => Мебель для прихожей -
+            [meta_keyword] => мебель для прихожей,
+            [seo_keyword] => mebel-dlya-prihozhej
+            [seo_h1] => Мебель для прихожей
+            [seo_h2] => Мебель для прихожей
+            [seo_h3] => Мебель для прихожей
+            [store_id] => 0
+        )
+
+    [8] => Array
+        (
+            [category_id] => 279
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 9
+            [status] => 1
+            [date_added] => 2022-03-28 17:04:40
+            [date_modified] => 2022-03-28 17:04:40
+            [language_id] => 1
+            [name] => Спальни
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Спальни
+            [meta_description] => Спальни -
+            [meta_keyword] => спальни,
+            [seo_keyword] => spal-ni
+            [seo_h1] => Спальни
+            [seo_h2] => Спальни
+            [seo_h3] => Спальни
+            [store_id] => 0
+        )
+
+    [9] => Array
+        (
+            [category_id] => 288
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 10
+            [status] => 1
+            [date_added] => 2022-03-28 17:51:46
+            [date_modified] => 2022-03-28 17:51:46
+            [language_id] => 1
+            [name] => Кровати и тахты
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Кровати и тахты
+            [meta_description] => Кровати и тахты -
+            [meta_keyword] => кровати и тахты,
+            [seo_keyword] => krovati-i-tahty
+            [seo_h1] => Кровати и тахты
+            [seo_h2] => Кровати и тахты
+            [seo_h3] => Кровати и тахты
+            [store_id] => 0
+        )
+
+    [10] => Array
+        (
+            [category_id] => 295
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 11
+            [status] => 1
+            [date_added] => 2022-03-28 17:58:31
+            [date_modified] => 2022-03-28 17:58:31
+            [language_id] => 1
+            [name] => Матрасы, наматрасники
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Матрасы, наматрасники
+            [meta_description] => Матрасы, наматрасники -
+            [meta_keyword] => матрасы, наматрасники,
+            [seo_keyword] => matrasy-namatrasniki
+            [seo_h1] => Матрасы, наматрасники
+            [seo_h2] => Матрасы, наматрасники
+            [seo_h3] => Матрасы, наматрасники
+            [store_id] => 0
+        )
+
+    [11] => Array
+        (
+            [category_id] => 296
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 12
+            [status] => 1
+            [date_added] => 2022-03-28 17:59:07
+            [date_modified] => 2022-03-28 18:15:09
+            [language_id] => 1
+            [name] => Детская мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Детская мебель
+            [meta_description] => Детская мебель -
+            [meta_keyword] => детская мебель,
+            [seo_keyword] => detskaya-mebel
+            [seo_h1] => Детская мебель
+            [seo_h2] => Детская мебель
+            [seo_h3] => Детская мебель
+            [store_id] => 0
+        )
+
+    [12] => Array
+        (
+            [category_id] => 305
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 13
+            [status] => 1
+            [date_added] => 2022-03-28 18:17:10
+            [date_modified] => 2022-03-28 18:17:10
+            [language_id] => 1
+            [name] => Стулья и табуреты
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Стулья и табуреты
+            [meta_description] => Стулья и табуреты -
+            [meta_keyword] => стулья и табуреты,
+            [seo_keyword] => stul-ya-i-taburety
+            [seo_h1] => Стулья и табуреты
+            [seo_h2] => Стулья и табуреты
+            [seo_h3] => Стулья и табуреты
+            [store_id] => 0
+        )
+
+    [13] => Array
+        (
+            [category_id] => 308
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 14
+            [status] => 1
+            [date_added] => 2022-03-28 18:31:58
+            [date_modified] => 2022-03-28 18:31:58
+            [language_id] => 1
+            [name] => Офисная мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Офисная мебель
+            [meta_description] => Офисная мебель -
+            [meta_keyword] => офисная мебель,
+            [seo_keyword] => ofisnaya-mebel
+            [seo_h1] => Офисная мебель
+            [seo_h2] => Офисная мебель
+            [seo_h3] => Офисная мебель
+            [store_id] => 0
+        )
+
+    [14] => Array
+        (
+            [category_id] => 136
+            [image] => catalog/Kategorii/011.png
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 1000
+            [status] => 1
+            [date_added] => 2021-03-31 09:57:20
+            [date_modified] => 2021-12-04 12:19:35
+            [language_id] => 1
+            [name] => Готовые коллекции мебели
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Готовый интерьер комнат
+            [meta_description] => Готовый интерьер комнат -
+            [meta_keyword] => готовый интерьер комнат,
+            [seo_keyword] => gotovyj-inter-er-komnat
+            [seo_h1] => Готовый интерьер комнат
+            [seo_h2] => Готовый интерьер комнат
+            [seo_h3] => Готовый интерьер комнат
+            [store_id] => 0
+        )
+
+)
+
+2022-09-02 14:44:51 Array
+(
+    [0] => Array
+        (
+            [category_id] => 230
+            [image] => catalog/soft_mebel.jpg
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 1
+            [status] => 1
+            [date_added] => 2022-03-28 14:56:39
+            [date_modified] => 2022-09-02 14:43:33
+            [language_id] => 1
+            [name] => Мягкая мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мягкая мебель
+            [meta_description] => Мягкая мебель -
+            [meta_keyword] => мягкая мебель,
+            [seo_keyword] => mjagkaja-mebel
+            [seo_h1] => Мягкая мебель
+            [seo_h2] => Мягкая мебель
+            [seo_h3] => Мягкая мебель
+            [store_id] => 0
+        )
+
+    [1] => Array
+        (
+            [category_id] => 235
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 2
+            [status] => 1
+            [date_added] => 2022-03-28 15:02:50
+            [date_modified] => 2022-03-28 15:02:50
+            [language_id] => 1
+            [name] => Шкафы-купе
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Шкафы-купе
+            [meta_description] => Шкафы-купе -
+            [meta_keyword] => шкафы-купе,
+            [seo_keyword] => shkafy-kupe
+            [seo_h1] => Шкафы-купе
+            [seo_h2] => Шкафы-купе
+            [seo_h3] => Шкафы-купе
+            [store_id] => 0
+        )
+
+    [2] => Array
+        (
+            [category_id] => 236
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 3
+            [status] => 1
+            [date_added] => 2022-03-28 15:05:15
+            [date_modified] => 2022-03-28 15:05:15
+            [language_id] => 1
+            [name] => Распашные шкафы
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Распашные шкафы
+            [meta_description] => Распашные шкафы -
+            [meta_keyword] => распашные шкафы,
+            [seo_keyword] => raspashnye-shkafy
+            [seo_h1] => Распашные шкафы
+            [seo_h2] => Распашные шкафы
+            [seo_h3] => Распашные шкафы
+            [store_id] => 0
+        )
+
+    [3] => Array
+        (
+            [category_id] => 245
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 4
+            [status] => 1
+            [date_added] => 2022-03-28 15:33:15
+            [date_modified] => 2022-03-28 15:33:15
+            [language_id] => 1
+            [name] => Мебель для кухни
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мебель для кухни
+            [meta_description] => Мебель для кухни -
+            [meta_keyword] => мебель для кухни,
+            [seo_keyword] => mebel-dlya-kuhni
+            [seo_h1] => Мебель для кухни
+            [seo_h2] => Мебель для кухни
+            [seo_h3] => Мебель для кухни
+            [store_id] => 0
+        )
+
+    [4] => Array
+        (
+            [category_id] => 257
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 5
+            [status] => 1
+            [date_added] => 2022-03-28 16:38:12
+            [date_modified] => 2022-03-28 16:38:12
+            [language_id] => 1
+            [name] => Столы
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Столы
+            [meta_description] => Столы -
+            [meta_keyword] => столы,
+            [seo_keyword] => stoly
+            [seo_h1] => Столы
+            [seo_h2] => Столы
+            [seo_h3] => Столы
+            [store_id] => 0
+        )
+
+    [5] => Array
+        (
+            [category_id] => 265
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 6
+            [status] => 1
+            [date_added] => 2022-03-28 16:48:57
+            [date_modified] => 2022-03-28 16:48:57
+            [language_id] => 1
+            [name] => Гостиные
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Гостиные
+            [meta_description] => Гостиные -
+            [meta_keyword] => гостиные,
+            [seo_keyword] => gostinye
+            [seo_h1] => Гостиные
+            [seo_h2] => Гостиные
+            [seo_h3] => Гостиные
+            [store_id] => 0
+        )
+
+    [6] => Array
+        (
+            [category_id] => 271
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 7
+            [status] => 1
+            [date_added] => 2022-03-28 16:53:44
+            [date_modified] => 2022-03-28 16:53:44
+            [language_id] => 1
+            [name] => Комоды
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Комоды
+            [meta_description] => Комоды -
+            [meta_keyword] => комоды,
+            [seo_keyword] => komody
+            [seo_h1] => Комоды
+            [seo_h2] => Комоды
+            [seo_h3] => Комоды
+            [store_id] => 0
+        )
+
+    [7] => Array
+        (
+            [category_id] => 272
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 8
+            [status] => 1
+            [date_added] => 2022-03-28 16:57:37
+            [date_modified] => 2022-03-28 16:57:37
+            [language_id] => 1
+            [name] => Мебель для прихожей
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мебель для прихожей
+            [meta_description] => Мебель для прихожей -
+            [meta_keyword] => мебель для прихожей,
+            [seo_keyword] => mebel-dlya-prihozhej
+            [seo_h1] => Мебель для прихожей
+            [seo_h2] => Мебель для прихожей
+            [seo_h3] => Мебель для прихожей
+            [store_id] => 0
+        )
+
+    [8] => Array
+        (
+            [category_id] => 279
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 9
+            [status] => 1
+            [date_added] => 2022-03-28 17:04:40
+            [date_modified] => 2022-03-28 17:04:40
+            [language_id] => 1
+            [name] => Спальни
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Спальни
+            [meta_description] => Спальни -
+            [meta_keyword] => спальни,
+            [seo_keyword] => spal-ni
+            [seo_h1] => Спальни
+            [seo_h2] => Спальни
+            [seo_h3] => Спальни
+            [store_id] => 0
+        )
+
+    [9] => Array
+        (
+            [category_id] => 288
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 10
+            [status] => 1
+            [date_added] => 2022-03-28 17:51:46
+            [date_modified] => 2022-03-28 17:51:46
+            [language_id] => 1
+            [name] => Кровати и тахты
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Кровати и тахты
+            [meta_description] => Кровати и тахты -
+            [meta_keyword] => кровати и тахты,
+            [seo_keyword] => krovati-i-tahty
+            [seo_h1] => Кровати и тахты
+            [seo_h2] => Кровати и тахты
+            [seo_h3] => Кровати и тахты
+            [store_id] => 0
+        )
+
+    [10] => Array
+        (
+            [category_id] => 295
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 11
+            [status] => 1
+            [date_added] => 2022-03-28 17:58:31
+            [date_modified] => 2022-03-28 17:58:31
+            [language_id] => 1
+            [name] => Матрасы, наматрасники
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Матрасы, наматрасники
+            [meta_description] => Матрасы, наматрасники -
+            [meta_keyword] => матрасы, наматрасники,
+            [seo_keyword] => matrasy-namatrasniki
+            [seo_h1] => Матрасы, наматрасники
+            [seo_h2] => Матрасы, наматрасники
+            [seo_h3] => Матрасы, наматрасники
+            [store_id] => 0
+        )
+
+    [11] => Array
+        (
+            [category_id] => 296
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 12
+            [status] => 1
+            [date_added] => 2022-03-28 17:59:07
+            [date_modified] => 2022-03-28 18:15:09
+            [language_id] => 1
+            [name] => Детская мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Детская мебель
+            [meta_description] => Детская мебель -
+            [meta_keyword] => детская мебель,
+            [seo_keyword] => detskaya-mebel
+            [seo_h1] => Детская мебель
+            [seo_h2] => Детская мебель
+            [seo_h3] => Детская мебель
+            [store_id] => 0
+        )
+
+    [12] => Array
+        (
+            [category_id] => 305
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 13
+            [status] => 1
+            [date_added] => 2022-03-28 18:17:10
+            [date_modified] => 2022-03-28 18:17:10
+            [language_id] => 1
+            [name] => Стулья и табуреты
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Стулья и табуреты
+            [meta_description] => Стулья и табуреты -
+            [meta_keyword] => стулья и табуреты,
+            [seo_keyword] => stul-ya-i-taburety
+            [seo_h1] => Стулья и табуреты
+            [seo_h2] => Стулья и табуреты
+            [seo_h3] => Стулья и табуреты
+            [store_id] => 0
+        )
+
+    [13] => Array
+        (
+            [category_id] => 308
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 14
+            [status] => 1
+            [date_added] => 2022-03-28 18:31:58
+            [date_modified] => 2022-03-28 18:31:58
+            [language_id] => 1
+            [name] => Офисная мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Офисная мебель
+            [meta_description] => Офисная мебель -
+            [meta_keyword] => офисная мебель,
+            [seo_keyword] => ofisnaya-mebel
+            [seo_h1] => Офисная мебель
+            [seo_h2] => Офисная мебель
+            [seo_h3] => Офисная мебель
+            [store_id] => 0
+        )
+
+    [14] => Array
+        (
+            [category_id] => 136
+            [image] => catalog/Kategorii/011.png
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 1000
+            [status] => 1
+            [date_added] => 2021-03-31 09:57:20
+            [date_modified] => 2021-12-04 12:19:35
+            [language_id] => 1
+            [name] => Готовые коллекции мебели
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Готовый интерьер комнат
+            [meta_description] => Готовый интерьер комнат -
+            [meta_keyword] => готовый интерьер комнат,
+            [seo_keyword] => gotovyj-inter-er-komnat
+            [seo_h1] => Готовый интерьер комнат
+            [seo_h2] => Готовый интерьер комнат
+            [seo_h3] => Готовый интерьер комнат
+            [store_id] => 0
+        )
+
+)
+
+2022-09-02 14:49:24 Array
+(
+    [0] => Array
+        (
+            [category_id] => 230
+            [image] => catalog/soft_mebel.jpg
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 1
+            [status] => 1
+            [date_added] => 2022-03-28 14:56:39
+            [date_modified] => 2022-09-02 14:43:33
+            [language_id] => 1
+            [name] => Мягкая мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мягкая мебель
+            [meta_description] => Мягкая мебель -
+            [meta_keyword] => мягкая мебель,
+            [seo_keyword] => mjagkaja-mebel
+            [seo_h1] => Мягкая мебель
+            [seo_h2] => Мягкая мебель
+            [seo_h3] => Мягкая мебель
+            [store_id] => 0
+        )
+
+    [1] => Array
+        (
+            [category_id] => 235
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 2
+            [status] => 1
+            [date_added] => 2022-03-28 15:02:50
+            [date_modified] => 2022-03-28 15:02:50
+            [language_id] => 1
+            [name] => Шкафы-купе
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Шкафы-купе
+            [meta_description] => Шкафы-купе -
+            [meta_keyword] => шкафы-купе,
+            [seo_keyword] => shkafy-kupe
+            [seo_h1] => Шкафы-купе
+            [seo_h2] => Шкафы-купе
+            [seo_h3] => Шкафы-купе
+            [store_id] => 0
+        )
+
+    [2] => Array
+        (
+            [category_id] => 236
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 3
+            [status] => 1
+            [date_added] => 2022-03-28 15:05:15
+            [date_modified] => 2022-03-28 15:05:15
+            [language_id] => 1
+            [name] => Распашные шкафы
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Распашные шкафы
+            [meta_description] => Распашные шкафы -
+            [meta_keyword] => распашные шкафы,
+            [seo_keyword] => raspashnye-shkafy
+            [seo_h1] => Распашные шкафы
+            [seo_h2] => Распашные шкафы
+            [seo_h3] => Распашные шкафы
+            [store_id] => 0
+        )
+
+    [3] => Array
+        (
+            [category_id] => 245
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 4
+            [status] => 1
+            [date_added] => 2022-03-28 15:33:15
+            [date_modified] => 2022-03-28 15:33:15
+            [language_id] => 1
+            [name] => Мебель для кухни
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мебель для кухни
+            [meta_description] => Мебель для кухни -
+            [meta_keyword] => мебель для кухни,
+            [seo_keyword] => mebel-dlya-kuhni
+            [seo_h1] => Мебель для кухни
+            [seo_h2] => Мебель для кухни
+            [seo_h3] => Мебель для кухни
+            [store_id] => 0
+        )
+
+    [4] => Array
+        (
+            [category_id] => 257
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 5
+            [status] => 1
+            [date_added] => 2022-03-28 16:38:12
+            [date_modified] => 2022-03-28 16:38:12
+            [language_id] => 1
+            [name] => Столы
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Столы
+            [meta_description] => Столы -
+            [meta_keyword] => столы,
+            [seo_keyword] => stoly
+            [seo_h1] => Столы
+            [seo_h2] => Столы
+            [seo_h3] => Столы
+            [store_id] => 0
+        )
+
+    [5] => Array
+        (
+            [category_id] => 265
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 6
+            [status] => 1
+            [date_added] => 2022-03-28 16:48:57
+            [date_modified] => 2022-03-28 16:48:57
+            [language_id] => 1
+            [name] => Гостиные
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Гостиные
+            [meta_description] => Гостиные -
+            [meta_keyword] => гостиные,
+            [seo_keyword] => gostinye
+            [seo_h1] => Гостиные
+            [seo_h2] => Гостиные
+            [seo_h3] => Гостиные
+            [store_id] => 0
+        )
+
+    [6] => Array
+        (
+            [category_id] => 271
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 7
+            [status] => 1
+            [date_added] => 2022-03-28 16:53:44
+            [date_modified] => 2022-03-28 16:53:44
+            [language_id] => 1
+            [name] => Комоды
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Комоды
+            [meta_description] => Комоды -
+            [meta_keyword] => комоды,
+            [seo_keyword] => komody
+            [seo_h1] => Комоды
+            [seo_h2] => Комоды
+            [seo_h3] => Комоды
+            [store_id] => 0
+        )
+
+    [7] => Array
+        (
+            [category_id] => 272
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 8
+            [status] => 1
+            [date_added] => 2022-03-28 16:57:37
+            [date_modified] => 2022-03-28 16:57:37
+            [language_id] => 1
+            [name] => Мебель для прихожей
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мебель для прихожей
+            [meta_description] => Мебель для прихожей -
+            [meta_keyword] => мебель для прихожей,
+            [seo_keyword] => mebel-dlya-prihozhej
+            [seo_h1] => Мебель для прихожей
+            [seo_h2] => Мебель для прихожей
+            [seo_h3] => Мебель для прихожей
+            [store_id] => 0
+        )
+
+    [8] => Array
+        (
+            [category_id] => 279
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 9
+            [status] => 1
+            [date_added] => 2022-03-28 17:04:40
+            [date_modified] => 2022-03-28 17:04:40
+            [language_id] => 1
+            [name] => Спальни
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Спальни
+            [meta_description] => Спальни -
+            [meta_keyword] => спальни,
+            [seo_keyword] => spal-ni
+            [seo_h1] => Спальни
+            [seo_h2] => Спальни
+            [seo_h3] => Спальни
+            [store_id] => 0
+        )
+
+    [9] => Array
+        (
+            [category_id] => 288
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 10
+            [status] => 1
+            [date_added] => 2022-03-28 17:51:46
+            [date_modified] => 2022-03-28 17:51:46
+            [language_id] => 1
+            [name] => Кровати и тахты
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Кровати и тахты
+            [meta_description] => Кровати и тахты -
+            [meta_keyword] => кровати и тахты,
+            [seo_keyword] => krovati-i-tahty
+            [seo_h1] => Кровати и тахты
+            [seo_h2] => Кровати и тахты
+            [seo_h3] => Кровати и тахты
+            [store_id] => 0
+        )
+
+    [10] => Array
+        (
+            [category_id] => 295
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 11
+            [status] => 1
+            [date_added] => 2022-03-28 17:58:31
+            [date_modified] => 2022-03-28 17:58:31
+            [language_id] => 1
+            [name] => Матрасы, наматрасники
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Матрасы, наматрасники
+            [meta_description] => Матрасы, наматрасники -
+            [meta_keyword] => матрасы, наматрасники,
+            [seo_keyword] => matrasy-namatrasniki
+            [seo_h1] => Матрасы, наматрасники
+            [seo_h2] => Матрасы, наматрасники
+            [seo_h3] => Матрасы, наматрасники
+            [store_id] => 0
+        )
+
+    [11] => Array
+        (
+            [category_id] => 296
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 12
+            [status] => 1
+            [date_added] => 2022-03-28 17:59:07
+            [date_modified] => 2022-03-28 18:15:09
+            [language_id] => 1
+            [name] => Детская мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Детская мебель
+            [meta_description] => Детская мебель -
+            [meta_keyword] => детская мебель,
+            [seo_keyword] => detskaya-mebel
+            [seo_h1] => Детская мебель
+            [seo_h2] => Детская мебель
+            [seo_h3] => Детская мебель
+            [store_id] => 0
+        )
+
+    [12] => Array
+        (
+            [category_id] => 305
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 13
+            [status] => 1
+            [date_added] => 2022-03-28 18:17:10
+            [date_modified] => 2022-03-28 18:17:10
+            [language_id] => 1
+            [name] => Стулья и табуреты
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Стулья и табуреты
+            [meta_description] => Стулья и табуреты -
+            [meta_keyword] => стулья и табуреты,
+            [seo_keyword] => stul-ya-i-taburety
+            [seo_h1] => Стулья и табуреты
+            [seo_h2] => Стулья и табуреты
+            [seo_h3] => Стулья и табуреты
+            [store_id] => 0
+        )
+
+    [13] => Array
+        (
+            [category_id] => 308
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 14
+            [status] => 1
+            [date_added] => 2022-03-28 18:31:58
+            [date_modified] => 2022-03-28 18:31:58
+            [language_id] => 1
+            [name] => Офисная мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Офисная мебель
+            [meta_description] => Офисная мебель -
+            [meta_keyword] => офисная мебель,
+            [seo_keyword] => ofisnaya-mebel
+            [seo_h1] => Офисная мебель
+            [seo_h2] => Офисная мебель
+            [seo_h3] => Офисная мебель
+            [store_id] => 0
+        )
+
+    [14] => Array
+        (
+            [category_id] => 136
+            [image] => catalog/Kategorii/011.png
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 1000
+            [status] => 1
+            [date_added] => 2021-03-31 09:57:20
+            [date_modified] => 2021-12-04 12:19:35
+            [language_id] => 1
+            [name] => Готовые коллекции мебели
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Готовый интерьер комнат
+            [meta_description] => Готовый интерьер комнат -
+            [meta_keyword] => готовый интерьер комнат,
+            [seo_keyword] => gotovyj-inter-er-komnat
+            [seo_h1] => Готовый интерьер комнат
+            [seo_h2] => Готовый интерьер комнат
+            [seo_h3] => Готовый интерьер комнат
+            [store_id] => 0
+        )
+
+)
+
+2022-09-02 14:49:43 Array
+(
+    [0] => Array
+        (
+            [category_id] => 230
+            [image] => catalog/soft_mebel.jpg
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 1
+            [status] => 1
+            [date_added] => 2022-03-28 14:56:39
+            [date_modified] => 2022-09-02 14:43:33
+            [language_id] => 1
+            [name] => Мягкая мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мягкая мебель
+            [meta_description] => Мягкая мебель -
+            [meta_keyword] => мягкая мебель,
+            [seo_keyword] => mjagkaja-mebel
+            [seo_h1] => Мягкая мебель
+            [seo_h2] => Мягкая мебель
+            [seo_h3] => Мягкая мебель
+            [store_id] => 0
+        )
+
+    [1] => Array
+        (
+            [category_id] => 235
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 2
+            [status] => 1
+            [date_added] => 2022-03-28 15:02:50
+            [date_modified] => 2022-03-28 15:02:50
+            [language_id] => 1
+            [name] => Шкафы-купе
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Шкафы-купе
+            [meta_description] => Шкафы-купе -
+            [meta_keyword] => шкафы-купе,
+            [seo_keyword] => shkafy-kupe
+            [seo_h1] => Шкафы-купе
+            [seo_h2] => Шкафы-купе
+            [seo_h3] => Шкафы-купе
+            [store_id] => 0
+        )
+
+    [2] => Array
+        (
+            [category_id] => 236
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 3
+            [status] => 1
+            [date_added] => 2022-03-28 15:05:15
+            [date_modified] => 2022-03-28 15:05:15
+            [language_id] => 1
+            [name] => Распашные шкафы
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Распашные шкафы
+            [meta_description] => Распашные шкафы -
+            [meta_keyword] => распашные шкафы,
+            [seo_keyword] => raspashnye-shkafy
+            [seo_h1] => Распашные шкафы
+            [seo_h2] => Распашные шкафы
+            [seo_h3] => Распашные шкафы
+            [store_id] => 0
+        )
+
+    [3] => Array
+        (
+            [category_id] => 245
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 4
+            [status] => 1
+            [date_added] => 2022-03-28 15:33:15
+            [date_modified] => 2022-03-28 15:33:15
+            [language_id] => 1
+            [name] => Мебель для кухни
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мебель для кухни
+            [meta_description] => Мебель для кухни -
+            [meta_keyword] => мебель для кухни,
+            [seo_keyword] => mebel-dlya-kuhni
+            [seo_h1] => Мебель для кухни
+            [seo_h2] => Мебель для кухни
+            [seo_h3] => Мебель для кухни
+            [store_id] => 0
+        )
+
+    [4] => Array
+        (
+            [category_id] => 257
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 5
+            [status] => 1
+            [date_added] => 2022-03-28 16:38:12
+            [date_modified] => 2022-03-28 16:38:12
+            [language_id] => 1
+            [name] => Столы
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Столы
+            [meta_description] => Столы -
+            [meta_keyword] => столы,
+            [seo_keyword] => stoly
+            [seo_h1] => Столы
+            [seo_h2] => Столы
+            [seo_h3] => Столы
+            [store_id] => 0
+        )
+
+    [5] => Array
+        (
+            [category_id] => 265
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 6
+            [status] => 1
+            [date_added] => 2022-03-28 16:48:57
+            [date_modified] => 2022-03-28 16:48:57
+            [language_id] => 1
+            [name] => Гостиные
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Гостиные
+            [meta_description] => Гостиные -
+            [meta_keyword] => гостиные,
+            [seo_keyword] => gostinye
+            [seo_h1] => Гостиные
+            [seo_h2] => Гостиные
+            [seo_h3] => Гостиные
+            [store_id] => 0
+        )
+
+    [6] => Array
+        (
+            [category_id] => 271
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 7
+            [status] => 1
+            [date_added] => 2022-03-28 16:53:44
+            [date_modified] => 2022-03-28 16:53:44
+            [language_id] => 1
+            [name] => Комоды
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Комоды
+            [meta_description] => Комоды -
+            [meta_keyword] => комоды,
+            [seo_keyword] => komody
+            [seo_h1] => Комоды
+            [seo_h2] => Комоды
+            [seo_h3] => Комоды
+            [store_id] => 0
+        )
+
+    [7] => Array
+        (
+            [category_id] => 272
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 8
+            [status] => 1
+            [date_added] => 2022-03-28 16:57:37
+            [date_modified] => 2022-03-28 16:57:37
+            [language_id] => 1
+            [name] => Мебель для прихожей
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Мебель для прихожей
+            [meta_description] => Мебель для прихожей -
+            [meta_keyword] => мебель для прихожей,
+            [seo_keyword] => mebel-dlya-prihozhej
+            [seo_h1] => Мебель для прихожей
+            [seo_h2] => Мебель для прихожей
+            [seo_h3] => Мебель для прихожей
+            [store_id] => 0
+        )
+
+    [8] => Array
+        (
+            [category_id] => 279
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 9
+            [status] => 1
+            [date_added] => 2022-03-28 17:04:40
+            [date_modified] => 2022-03-28 17:04:40
+            [language_id] => 1
+            [name] => Спальни
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Спальни
+            [meta_description] => Спальни -
+            [meta_keyword] => спальни,
+            [seo_keyword] => spal-ni
+            [seo_h1] => Спальни
+            [seo_h2] => Спальни
+            [seo_h3] => Спальни
+            [store_id] => 0
+        )
+
+    [9] => Array
+        (
+            [category_id] => 288
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 10
+            [status] => 1
+            [date_added] => 2022-03-28 17:51:46
+            [date_modified] => 2022-03-28 17:51:46
+            [language_id] => 1
+            [name] => Кровати и тахты
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Кровати и тахты
+            [meta_description] => Кровати и тахты -
+            [meta_keyword] => кровати и тахты,
+            [seo_keyword] => krovati-i-tahty
+            [seo_h1] => Кровати и тахты
+            [seo_h2] => Кровати и тахты
+            [seo_h3] => Кровати и тахты
+            [store_id] => 0
+        )
+
+    [10] => Array
+        (
+            [category_id] => 295
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 11
+            [status] => 1
+            [date_added] => 2022-03-28 17:58:31
+            [date_modified] => 2022-03-28 17:58:31
+            [language_id] => 1
+            [name] => Матрасы, наматрасники
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Матрасы, наматрасники
+            [meta_description] => Матрасы, наматрасники -
+            [meta_keyword] => матрасы, наматрасники,
+            [seo_keyword] => matrasy-namatrasniki
+            [seo_h1] => Матрасы, наматрасники
+            [seo_h2] => Матрасы, наматрасники
+            [seo_h3] => Матрасы, наматрасники
+            [store_id] => 0
+        )
+
+    [11] => Array
+        (
+            [category_id] => 296
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 12
+            [status] => 1
+            [date_added] => 2022-03-28 17:59:07
+            [date_modified] => 2022-03-28 18:15:09
+            [language_id] => 1
+            [name] => Детская мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Детская мебель
+            [meta_description] => Детская мебель -
+            [meta_keyword] => детская мебель,
+            [seo_keyword] => detskaya-mebel
+            [seo_h1] => Детская мебель
+            [seo_h2] => Детская мебель
+            [seo_h3] => Детская мебель
+            [store_id] => 0
+        )
+
+    [12] => Array
+        (
+            [category_id] => 305
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 13
+            [status] => 1
+            [date_added] => 2022-03-28 18:17:10
+            [date_modified] => 2022-03-28 18:17:10
+            [language_id] => 1
+            [name] => Стулья и табуреты
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Стулья и табуреты
+            [meta_description] => Стулья и табуреты -
+            [meta_keyword] => стулья и табуреты,
+            [seo_keyword] => stul-ya-i-taburety
+            [seo_h1] => Стулья и табуреты
+            [seo_h2] => Стулья и табуреты
+            [seo_h3] => Стулья и табуреты
+            [store_id] => 0
+        )
+
+    [13] => Array
+        (
+            [category_id] => 308
+            [image] => 
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 14
+            [status] => 1
+            [date_added] => 2022-03-28 18:31:58
+            [date_modified] => 2022-03-28 18:31:58
+            [language_id] => 1
+            [name] => Офисная мебель
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Офисная мебель
+            [meta_description] => Офисная мебель -
+            [meta_keyword] => офисная мебель,
+            [seo_keyword] => ofisnaya-mebel
+            [seo_h1] => Офисная мебель
+            [seo_h2] => Офисная мебель
+            [seo_h3] => Офисная мебель
+            [store_id] => 0
+        )
+
+    [14] => Array
+        (
+            [category_id] => 136
+            [image] => catalog/Kategorii/011.png
+            [parent_id] => 59
+            [top] => 0
+            [column] => 1
+            [sort_order] => 1000
+            [status] => 1
+            [date_added] => 2021-03-31 09:57:20
+            [date_modified] => 2021-12-04 12:19:35
+            [language_id] => 1
+            [name] => Готовые коллекции мебели
+            [description] => &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+            [meta_title] => Готовый интерьер комнат
+            [meta_description] => Готовый интерьер комнат -
+            [meta_keyword] => готовый интерьер комнат,
+            [seo_keyword] => gotovyj-inter-er-komnat
+            [seo_h1] => Готовый интерьер комнат
+            [seo_h2] => Готовый интерьер комнат
+            [seo_h3] => Готовый интерьер комнат
+            [store_id] => 0
+        )
+
+)
+
